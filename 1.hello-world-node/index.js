@@ -8,3 +8,5 @@ setTimeout(() => {
 }, 2000);
 
 console.log('this is the last line of the sync code');
+
+
